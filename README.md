@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white">
+<img src="https://img.shields.io/badge/42 Seoul-000000?style=badge&logo=42&logoColor=white">
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=badge&logo=anaconda&logoColor=white">
 </p>
 
 <p align="center">
@@ -40,14 +40,14 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=badge&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-013243?style=badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/Pandas-150458?style=badge&logo=pandas&logoColor=white">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=badge&logo=ubuntu&logoColor=white">
 </p>
 
 <p align="center">
