@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
 </p>
