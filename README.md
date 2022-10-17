@@ -1,8 +1,8 @@
 # Kdelphinus
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff)
 <p align="center">
-🛠️Tech Stack🛠️
+🛠️Tech Stack
 </p>
 
 <p align="center">
