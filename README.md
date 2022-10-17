@@ -1,12 +1,21 @@
 # Kdelphinus
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff)
+
+<p align="center">
+📒Study now
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/42 Seoul-000000?style=for-the-badge&logo=42&logoColor=white">
+</p>
+
 <p align="center">
 🛠️Tech Stack
 </p>
 
 <p align="center">
-💡used as the main
+💡Used as the main
 </p>
 
 <p align="center">
@@ -15,7 +24,7 @@
 </p>
 
 <p align="center">
-💡used at least once
+💡Used at least once
 </p>
 
 <p align="center">
@@ -25,7 +34,7 @@
 </p>
 
 <p align="center">
-💡my interested in
+💡My interested in
 </p>
 
 <p align="center">
