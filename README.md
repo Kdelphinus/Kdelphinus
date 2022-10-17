@@ -1,9 +1,11 @@
 # Kdelphinus
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff"
+</p>
 
 <p align="center">
-📒Study now
+  <b>📒Study now</b>
 </p>
 
 <p align="center">
@@ -14,11 +16,11 @@ $$
 $$
 
 <p align="center">
-🛠️Tech Stack
+<b>🛠️Tech Stack🛠️</b>
 </p>
 
 <p align="center">
-💡Used as the main
+<b>Used as the main</b>
 </p>
 
 <p align="center">
@@ -28,7 +30,7 @@ $$
 </p>
 
 <p align="center">
-💡Used at least once
+<b>Used at least once</b>
 </p>
 
 <p align="center">
@@ -37,7 +39,7 @@ $$
 </p>
 
 <p align="center">
-💡My interested in
+<b>My interested in</b>
 </p>
 
 <p align="center">
