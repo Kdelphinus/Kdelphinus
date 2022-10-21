@@ -1,5 +1,3 @@
-# Kdelphinus
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff"
 </p>
@@ -50,7 +48,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=badge&logo=ubuntu&logoColor=white">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&hide=jupyter-notebook)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&hide=jupyter-notebook">
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
