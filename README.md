@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&hide=jupyter-notebook">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&hide=jupyter+notebook">
 </p>
 
 <p align="center">
