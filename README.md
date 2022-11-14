@@ -2,13 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff"
 </p>
 
-
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
-
-<p align="left">
-<b>🛠️Tech Stack🛠️</b>
-</p>
-
+## 🛠️Tech Stack
+  
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white">
@@ -28,11 +23,13 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=badge&logo=ubuntu&logoColor=white">
 </p>
 
-<img align="left" height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
+## 📈Github stat
 
-<!-- <p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
+<p align="center">
 <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
+</p>
+
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
-</p> -->
+</p>
