@@ -2,7 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff"
 </p>
 
-<img align="right" height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
+
+<img align="right" height="150em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
 
 <p align="left">
 <b>🛠️Tech Stack🛠️</b>
@@ -27,8 +28,11 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=badge&logo=ubuntu&logoColor=white">
 </p>
 
-<p align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
+<img align="left" height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
+<img align="right" height="150em" width="500em" src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
 
+<!-- <p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
+<img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
-</p>
+</p> -->
