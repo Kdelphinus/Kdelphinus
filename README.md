@@ -5,14 +5,6 @@
 <img align="right" height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
 
 <p align="left">
-  <b>📒Study now</b>
-</p>
-
-<p align="left">
-<img src="https://img.shields.io/badge/42 Seoul-000000?style=badge&logo=42&logoColor=white">
-</p>
-
-<p align="left">
 <b>🛠️Tech Stack🛠️</b>
 </p>
 
