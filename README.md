@@ -3,7 +3,7 @@
 </p>
 
 
-<img align="right" height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
 
 <p align="left">
 <b>🛠️Tech Stack🛠️</b>
@@ -29,7 +29,7 @@
 </p>
 
 <img align="left" height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
-<img align="right" height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api?username=Kdelphinus&show_icons=true&theme=dracula&count_private=true">
 
 <!-- <p align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kdelphinus&layout=compact&theme=dracula">
