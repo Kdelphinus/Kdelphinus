@@ -1,6 +1,10 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff"
 </p>
+  
+- Born 2 code
+- 코딩으로 세계 제패가 목표
+- 이슈는 언제나 환영입니다!
 
 ## 🛠️Tech Stack
 
