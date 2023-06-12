@@ -2,6 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff"
 </p>
 
+- 1일 1커밋을 수행하고 있습니다.
+- 만약 커밋을 쉬는 날이 있다면 이걸 보신 모든 분들께 하루 당 커피 한 잔씩 대접하도록 하죠!
+
 ## 🛠️Tech Stack
 
 <p align="left">
