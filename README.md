@@ -12,8 +12,9 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=badge&logo=markdown&logoColor=white">
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/Pycharm-000000?style=badge&logo=pycharm&logoColor=white">
-<img src="https://img.shields.io/badge/Clion-000000?style=badge&logo=clion&logoColor=white">
+<img src="https://img.shields.io/badge/Pycharm-3776AB?style=badge&logo=pycharm&logoColor=white">
+<img src="https://img.shields.io/badge/Clion-00599C?style=badge&logo=clion&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=badge&logo=visualstudiocode&logoColor=white">
 </p>
 
 ## 📈Github stat
