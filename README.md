@@ -28,5 +28,4 @@
 
 <p align="left">
 <img height="150em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kmj951015">
-<a href="https://github.com/JaeSeoKim/badge42"><img height="150em" src="https://badge42.vercel.app/api/v2/clai3zd6e01030fk88gkgveod/stats?cursusId=21&coalitionId=87" alt="myko's 42 stats" /></a>
 </p>
