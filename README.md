@@ -21,6 +21,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/JetBrains_IDE-000000?style=badge&logo=jetbrains&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=badge&logo=visualstudiocode&logoColor=white">
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white">
 </div>
