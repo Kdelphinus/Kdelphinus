@@ -13,6 +13,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/MySql-4479A1?style=badge&logo=mysql&logoColor=white">
 </div>
