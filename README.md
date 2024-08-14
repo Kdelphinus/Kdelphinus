@@ -25,6 +25,7 @@
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=badge&logo=Amazon Web Services&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white">
 </div>
