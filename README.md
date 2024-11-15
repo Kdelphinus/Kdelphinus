@@ -2,6 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff">
 </p>
 
+
 ## 🛠️Tech Stack
 
 <div align="center">
@@ -30,6 +31,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white">
 </div>
 
+
 ## 📈Github stat
 
 <div align="center">
@@ -43,6 +45,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kdelphinus&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 </div>
+
 
 ## 📌Etc
 
