@@ -5,14 +5,6 @@
 
 ## 🛠️Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Vim-019733?style=badge&logo=vim&logoColor=white">
-</div>
-
-<br>
-
-<div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
@@ -23,7 +15,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=kubernetes&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=badge&logo=Amazon-Web-Services&logoColor=white">
 </div>
 
@@ -36,6 +30,7 @@
   <img src="https://img.shields.io/badge/JetBrains_IDE-000000?style=badge&logo=jetbrains&logoColor=white">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=badge&logo=visualstudiocode&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=badge&logo=jupyter&logoColor=white">
+  <img src="https://img.shields.io/badge/Vim-019733?style=badge&logo=vim&logoColor=white">
 </div>
 
 <div align="center">
