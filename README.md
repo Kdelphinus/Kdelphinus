@@ -20,7 +20,6 @@
     <td align="center"><strong>Language</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/Java-007396?style=badge&logo=OpenJDK&logoColor=white">
       <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
     </td>
