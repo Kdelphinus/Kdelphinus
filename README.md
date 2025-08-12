@@ -75,7 +75,7 @@
         <a href="https://github.com/Kdelphinus/Retro-pong-with-k8s-and-aws"><b>Retro-pong with K8s & AWS</b></a>
       </td>
       <td>
-        docker-compose 기반의 팀 프로젝트를 Kubernetes 환경으로 전환하고 AWS EKS 서비스를 사용해 배포한 개인 프로젝트입니다. EFS, EBS 등 AWS 서비스의 특성을 고려하여 스토리지 및 네트워크 아키텍처를 개선했습니다.
+        docker-compose 기반의 팀 프로젝트를 Kubernetes 환경으로 마이그레이션
       </td>
       <td width="220px">
         <code>Kubernetes</code> <code>AWS EKS</code> <code>Docker</code>
@@ -86,10 +86,10 @@
         <a href="https://github.com/tail-passengers/tail-passengers"><b>핑퐁 게임 웹 페이지</b></a>
       </td>
       <td>
-        실시간 멀티플레이 핑퐁 게임 웹 서비스의 백엔드 팀장을 맡아 개발을 리드했습니다. Django Channels의 테스트 기능을 활용해 2,200줄 이상의 촘촘한 테스트 코드를 작성하여 웹소켓 통신의 안정성을 확보했습니다.
+        실시간 멀티플레이 핑퐁 게임 웹 서비스
       </td>
       <td width="220px">
-        <code>Django</code> <code>Channels</code> <code>PostgreSQL</code>
+        <code>DjangoRESTFramwork</code> <code>Docker Compose</code> <code>PostgreSQL</code>
       </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@
         <a href="https://github.com/ODOS/odos"><b>ODOS 슬랙봇</b></a>
       </td>
       <td>
-        매일 새로운 백준 문제를 풀었는지 확인하여 슬랙 채널에 전송하는 자동화 봇입니다. Crontab으로 스케줄링하고 Selenium으로 필요한 정보를 크롤링하며, 리소스 최소화를 위해 DB 대신 CSV 파일을 사용했습니다.
+        매일 새로운 백준 문제를 풀었는지 확인하여 슬랙 채널에 전송하는 자동화 봇
       </td>
       <td width="220px">
         <code>Python</code> <code>Selenium</code> <code>Crontab</code>
