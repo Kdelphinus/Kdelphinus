@@ -117,10 +117,10 @@
 
 ### 📜 Certifications
 
-* **AWS Certified Cloud Practitioner (CLF-CO2)** (2024.08)
-* **정보처리기사** (2025.06)
-* **SQLD** (2025.06)
 * **Certified Kubernetes Administrator (CKA)** (2025.07)
+* **SQLD** (2025.06)
+* **정보처리기사** (2025.06)
+* **AWS Certified Cloud Practitioner (CLF-CO2)** (2024.08)
 
 <br>
 
