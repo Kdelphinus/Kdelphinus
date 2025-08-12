@@ -28,7 +28,7 @@
     <td align="center"><strong>Backend</strong></td>
     <td>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=badge&logo=fastapi&logoColor=white">
-      <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=badge&logo=django&logoColor=white">
+      <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
     </td>
   </tr>
   <tr>
