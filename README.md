@@ -111,7 +111,7 @@
 ### 🎓 Education & Activities
 
 * **42 Seoul** (2022.07 ~ 2024.06)
-* **Kyung Hee University** - 우주과학과 학사 (2014.03 ~ 2021.02)
+* **Kyung Hee University** - Space Science (2014.03 ~ 2021.02)
 
 <br>
 
