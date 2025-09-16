@@ -2,15 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kdelphinus's%20Github%20Profile&fontSize=50&fontColor=ffffff">
 </p>
 
-<div align="center">
-
-### 👋 About Me
-<p>
-  안녕하세요! 새로운 기술을 습득하고 동료와 함께 협업하는 것을 즐기는 개발자 고명준입니다.
-</p>
-
-</div>
-
 <br>
 
 ### 🛠️ Tech Stack
