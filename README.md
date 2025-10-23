@@ -118,6 +118,7 @@
 ### 🌱 Currently Learning
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=badge&logo=Terraform&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=badge&logo=OpenJDK&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=badge&logo=googlecloud&logoColor=white">
