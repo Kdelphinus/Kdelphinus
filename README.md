@@ -8,29 +8,6 @@
 
 <table>
   <tr>
-    <td align="center"><strong>Language</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
-      <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=badge&logo=fastapi&logoColor=white">
-      <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Database</strong></td>
-    <td>
-       <img src="https://img.shields.io/badge/MySql-4479A1?style=badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=badge&logo=mariadb&logoColor=white">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=badge&logo=postgresql&logoColor=white">
-    </td>
-  </tr>
-  <tr>
     <td align="center"><strong>Infra & DevOps</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=kubernetes&logoColor=white">
@@ -51,6 +28,29 @@
       <img src="https://img.shields.io/badge/Jira-0052CC?style=badge&logo=jira&logoColor=white">
       <img src="https://img.shields.io/badge/Notion-F3F3F3?style=badge&logo=notion&logoColor=black">
       <img src="https://img.shields.io/badge/Slack-4A154B?style=badge&logo=slack&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Language</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=badge&logo=python&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-00599C?style=badge&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=badge&logo=c&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=badge&logo=fastapi&logoColor=white">
+      <img src="https://img.shields.io/badge/Django-092E20?style=badge&logo=django&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Database</strong></td>
+    <td>
+       <img src="https://img.shields.io/badge/MySql-4479A1?style=badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=badge&logo=mariadb&logoColor=white">
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=badge&logo=postgresql&logoColor=white">
     </td>
   </tr>
 </table>
