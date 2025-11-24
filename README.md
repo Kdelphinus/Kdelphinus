@@ -12,6 +12,7 @@
     <td>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=badge&logo=kubernetes&logoColor=white">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=badge&logo=docker&logoColor=white">
+      <img src="https://img.shields.io/badge/Openstack-ED1944?style=badge&logo=openstack&logoColor=white">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=badge&logo=Amazon-Web-Services&logoColor=white">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=badge&logo=linux&logoColor=black">
     </td>
